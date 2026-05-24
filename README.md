@@ -170,8 +170,6 @@ This will regenerate `revenue_forecast_model.pkl` using Leave-One-Out cross-vali
 
 ---
 
-## Author
-
 **Azzahra Puteri Kamilah**
 - GitHub: [@azhrapttri](https://github.com/azhrapttri)
 - LinkedIn: [linkedin.com/in/azzahraputerikamilah](www.linkedin.com/in/azzahraputerikamilah)
