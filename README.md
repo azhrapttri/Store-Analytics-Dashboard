@@ -1,6 +1,6 @@
-# DVDRental Intelligence Hub
+# Store Analytics Dashboard
 
-A full-featured analytics dashboard built with **Streamlit** and **PostgreSQL**, powered by the classic [DVD Rental](https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/) sample database. Designed for rental store managers to explore business performance, customer behavior, and revenue forecasts — all in one place.
+A full-featured analytics dashboard built with **Streamlit** and **PostgreSQL**, powered by the classic [DVD Rental](https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/) sample database. Designed for rental store managers to explore business performance, customer behavior, and revenue forecasts, all in one place.
 
 ---
 
@@ -8,9 +8,25 @@ A full-featured analytics dashboard built with **Streamlit** and **PostgreSQL**,
 
 | Dark Mode | Light Mode |
 |-----------|------------|
-|  |  |
+| <img width="1919" height="872" alt="image" src="https://github.com/user-attachments/assets/2ea605fd-3ea0-424d-ae71-f0cc9f7ad07f" /> | <img width="1918" height="875" alt="image" src="https://github.com/user-attachments/assets/89268910-219e-437a-b636-5b98098af8b0" /> |
 
 **Tab previews:**
+
+**Overview**
+<img width="1919" height="708" alt="image" src="https://github.com/user-attachments/assets/f74eb5f3-9fe7-4086-8296-34fa01bd751b" />
+
+**Inventory & Categories**
+<img width="1919" height="747" alt="image" src="https://github.com/user-attachments/assets/4e522650-6dfd-47d4-9c1b-2efa6ad2f929" />
+
+**Customers & Geo**
+<img width="1919" height="672" alt="image" src="https://github.com/user-attachments/assets/dd6abcc0-817c-4199-91b8-da46fa4b8872" />
+
+**Rental Patterns**
+<img width="1919" height="641" alt="image" src="https://github.com/user-attachments/assets/a1017a05-78d2-44d1-a9f3-a9796381024b" />
+
+**ML Predictions**
+<img width="1919" height="843" alt="image" src="https://github.com/user-attachments/assets/00328585-ac37-41ee-9300-50f74ddd36e1" />
+<img width="1919" height="584" alt="image" src="https://github.com/user-attachments/assets/a3159f8d-40f0-457c-9f25-8da825212a40" />
 
 ---
 
