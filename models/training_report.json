@@ -1,0 +1,52 @@
+{
+  "revenue_model": {
+    "train_mae": 2595.1488888888885,
+    "train_rmse": 2752.571066283101,
+    "train_r2": 0.946565772161056,
+    "test_mae": 35422.75083333334,
+    "test_rmse": 40136.523905797745,
+    "test_r2": -10.61282519753952,
+    "n_train": 3,
+    "n_test": 2,
+    "slope": 11585.216914505747,
+    "intercept": 12242.573333333334,
+    "last_month_num": 5.0,
+    "last_month_label": "2006-02-01 00:00:00",
+    "avg_rpt": 3.8205408773678964
+  },
+  "churn_model": {
+    "train_accuracy": 1.0,
+    "test_accuracy": 1.0,
+    "classification_report": {
+      "1": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 150.0
+      },
+      "accuracy": 1.0,
+      "macro avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 150.0
+      },
+      "weighted avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 150.0
+      }
+    },
+    "feature_importance": {
+      "total_rentals": 0.0,
+      "total_spent": 0.0,
+      "active_days": 0.0,
+      "stores_used": 0.0,
+      "avg_rental_hours": 0.0
+    },
+    "n_train": 449,
+    "n_test": 150,
+    "churn_rate_in_data": 1.0
+  }
+}
